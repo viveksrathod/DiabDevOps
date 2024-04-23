@@ -3,6 +3,11 @@
     <custom>true</custom>
     <fieldPermissions>
         <editable>true</editable>
+        <field>WorkOrder.IsJeopardy__c</field>
+        <readable>true</readable>
+    </fieldPermissions>
+    <fieldPermissions>
+        <editable>true</editable>
         <field>WorkOrder.IsOptimized__c</field>
         <readable>true</readable>
     </fieldPermissions>
