@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
-    <fullName>IsJeopardy__c</fullName>
+    <fullName>IsVendor__c</fullName>
     <defaultValue>false</defaultValue>
-    <description>This Field is used for WO&apos;s in Jeopardy</description>
     <externalId>false</externalId>
-    <label>IsJeopardy</label>
+    <label>IsVendor</label>
     <trackFeedHistory>false</trackFeedHistory>
-    <trackHistory>false</trackHistory>
     <type>Checkbox</type>
 </CustomField>
