@@ -78,6 +78,10 @@
                 <behavior>Edit</behavior>
                 <field>IsPreInspect__c</field>
             </layoutItems>
+            <layoutItems>
+                <behavior>Edit</behavior>
+                <field>IsForeperson__c</field>
+            </layoutItems>
         </layoutColumns>
         <layoutColumns>
             <layoutItems>
