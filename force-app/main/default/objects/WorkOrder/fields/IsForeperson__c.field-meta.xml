@@ -2,6 +2,7 @@
 <CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
     <fullName>IsForeperson__c</fullName>
     <defaultValue>false</defaultValue>
+    <description>this field is used to indicate the foreperson required for the WO</description>
     <label>IsForeperson</label>
     <trackFeedHistory>false</trackFeedHistory>
     <trackHistory>false</trackHistory>
